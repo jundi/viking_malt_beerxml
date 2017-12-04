@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <FERMENTABLES>
   <FERMENTABLE>
-    <NAME>Pilsner Zero</NAME>
+    <NAME> Viking malt - Pilsner Zero</NAME>
     <MOISTURE>5</MOISTURE>
     <YIELD>80</YIELD>
     <COLOR>1.905</COLOR>
@@ -10,7 +10,7 @@
     <MAX_IN_BATCH>100</MAX_IN_BATCH>
   </FERMENTABLE>
   <FERMENTABLE>
-    <NAME>Wheat</NAME>
+    <NAME> Viking malt - Wheat</NAME>
     <MOISTURE>6</MOISTURE>
     <YIELD>82</YIELD>
     <COLOR>2.54</COLOR>
@@ -19,7 +19,7 @@
     <MAX_IN_BATCH>100</MAX_IN_BATCH>
   </FERMENTABLE>
   <FERMENTABLE>
-    <NAME>Pale Ale</NAME>
+    <NAME> Viking malt - Pale Ale</NAME>
     <MOISTURE>5</MOISTURE>
     <YIELD>80</YIELD>
     <COLOR>2.794</COLOR>
@@ -28,7 +28,7 @@
     <MAX_IN_BATCH>100</MAX_IN_BATCH>
   </FERMENTABLE>
   <FERMENTABLE>
-    <NAME>Pilsner</NAME>
+    <NAME> Viking malt - Pilsner</NAME>
     <MOISTURE>5</MOISTURE>
     <YIELD>80</YIELD>
     <COLOR>1.905</COLOR>
@@ -37,7 +37,7 @@
     <MAX_IN_BATCH>100</MAX_IN_BATCH>
   </FERMENTABLE>
   <FERMENTABLE>
-    <NAME>Vienna</NAME>
+    <NAME> Viking malt - Vienna</NAME>
     <MOISTURE>5</MOISTURE>
     <YIELD>79</YIELD>
     <COLOR>4.318</COLOR>
@@ -46,7 +46,7 @@
     <MAX_IN_BATCH>100</MAX_IN_BATCH>
   </FERMENTABLE>
   <FERMENTABLE>
-    <NAME>Dextrin</NAME>
+    <NAME> Viking malt - Dextrin</NAME>
     <MOISTURE>6.5</MOISTURE>
     <YIELD>79</YIELD>
     <COLOR>6.604</COLOR>
@@ -55,7 +55,7 @@
     <MAX_IN_BATCH>30</MAX_IN_BATCH>
   </FERMENTABLE>
   <FERMENTABLE>
-    <NAME>Sahti</NAME>
+    <NAME> Viking malt - Sahti</NAME>
     <MOISTURE>5</MOISTURE>
     <YIELD>80</YIELD>
     <COLOR>2.54</COLOR>
@@ -64,7 +64,7 @@
     <MAX_IN_BATCH>100</MAX_IN_BATCH>
   </FERMENTABLE>
   <FERMENTABLE>
-    <NAME>Pale Cookie</NAME>
+    <NAME> Viking malt - Pale Cookie</NAME>
     <MOISTURE>6</MOISTURE>
     <YIELD>75</YIELD>
     <COLOR>12.7</COLOR>
@@ -73,7 +73,7 @@
     <MAX_IN_BATCH>25</MAX_IN_BATCH>
   </FERMENTABLE>
   <FERMENTABLE>
-    <NAME>Caramel Aromatic</NAME>
+    <NAME> Viking malt - Caramel Aromatic</NAME>
     <MOISTURE>6</MOISTURE>
     <YIELD>75</YIELD>
     <COLOR>91.44</COLOR>
@@ -82,7 +82,7 @@
     <MAX_IN_BATCH>20</MAX_IN_BATCH>
   </FERMENTABLE>
   <FERMENTABLE>
-    <NAME>Caramel Sweet</NAME>
+    <NAME> Viking malt - Caramel Sweet</NAME>
     <MOISTURE>7</MOISTURE>
     <YIELD>75</YIELD>
     <COLOR>31.75</COLOR>
@@ -91,7 +91,7 @@
     <MAX_IN_BATCH>30</MAX_IN_BATCH>
   </FERMENTABLE>
   <FERMENTABLE>
-    <NAME>Golden Ale</NAME>
+    <NAME> Viking malt - Golden Ale</NAME>
     <MOISTURE>5</MOISTURE>
     <YIELD>80</YIELD>
     <COLOR>5.842</COLOR>
@@ -100,7 +100,7 @@
     <MAX_IN_BATCH>50</MAX_IN_BATCH>
   </FERMENTABLE>
   <FERMENTABLE>
-    <NAME>Rye</NAME>
+    <NAME> Viking malt - Rye</NAME>
     <MOISTURE>6</MOISTURE>
     <YIELD>81</YIELD>
     <COLOR>3.556</COLOR>
@@ -109,7 +109,7 @@
     <MAX_IN_BATCH>7</MAX_IN_BATCH>
   </FERMENTABLE>
   <FERMENTABLE>
-    <NAME>Roasted Barley</NAME>
+    <NAME> Viking malt - Roasted Barley</NAME>
     <MOISTURE>5</MOISTURE>
     <YIELD>70</YIELD>
     <COLOR>457.2</COLOR>
@@ -118,7 +118,7 @@
     <MAX_IN_BATCH></MAX_IN_BATCH>
   </FERMENTABLE>
   <FERMENTABLE>
-    <NAME>Chocolate Light</NAME>
+    <NAME> Viking malt - Chocolate Light</NAME>
     <MOISTURE>5</MOISTURE>
     <YIELD>68</YIELD>
     <COLOR>203.2</COLOR>
@@ -127,7 +127,7 @@
     <MAX_IN_BATCH>10</MAX_IN_BATCH>
   </FERMENTABLE>
   <FERMENTABLE>
-    <NAME>Caramel Wheat</NAME>
+    <NAME> Viking malt - Caramel Wheat</NAME>
     <MOISTURE>6</MOISTURE>
     <YIELD>70</YIELD>
     <COLOR>50.8</COLOR>
@@ -136,7 +136,7 @@
     <MAX_IN_BATCH></MAX_IN_BATCH>
   </FERMENTABLE>
   <FERMENTABLE>
-    <NAME>Pearled Black</NAME>
+    <NAME> Viking malt - Pearled Black</NAME>
     <MOISTURE>5</MOISTURE>
     <YIELD>65</YIELD>
     <COLOR>508</COLOR>
@@ -145,7 +145,7 @@
     <MAX_IN_BATCH>2</MAX_IN_BATCH>
   </FERMENTABLE>
   <FERMENTABLE>
-    <NAME>Dark Ale</NAME>
+    <NAME> Viking malt - Dark Ale</NAME>
     <MOISTURE>5</MOISTURE>
     <YIELD>78</YIELD>
     <COLOR>17.78</COLOR>
@@ -154,7 +154,7 @@
     <MAX_IN_BATCH>30</MAX_IN_BATCH>
   </FERMENTABLE>
   <FERMENTABLE>
-    <NAME>Caramel 30</NAME>
+    <NAME> Viking malt - Caramel 30</NAME>
     <MOISTURE>7</MOISTURE>
     <YIELD>75</YIELD>
     <COLOR>15.24</COLOR>
@@ -163,7 +163,7 @@
     <MAX_IN_BATCH></MAX_IN_BATCH>
   </FERMENTABLE>
   <FERMENTABLE>
-    <NAME>Caramel 50</NAME>
+    <NAME> Viking malt - Caramel 50</NAME>
     <MOISTURE>6</MOISTURE>
     <YIELD>75</YIELD>
     <COLOR>25.4</COLOR>
@@ -172,7 +172,7 @@
     <MAX_IN_BATCH></MAX_IN_BATCH>
   </FERMENTABLE>
   <FERMENTABLE>
-    <NAME>Caramel 100</NAME>
+    <NAME> Viking malt - Caramel 100</NAME>
     <MOISTURE>6</MOISTURE>
     <YIELD>75</YIELD>
     <COLOR>50.8</COLOR>
@@ -181,7 +181,7 @@
     <MAX_IN_BATCH></MAX_IN_BATCH>
   </FERMENTABLE>
   <FERMENTABLE>
-    <NAME>Caramel 150</NAME>
+    <NAME> Viking malt - Caramel 150</NAME>
     <MOISTURE>6</MOISTURE>
     <YIELD>75</YIELD>
     <COLOR>76.2</COLOR>
@@ -190,7 +190,7 @@
     <MAX_IN_BATCH></MAX_IN_BATCH>
   </FERMENTABLE>
   <FERMENTABLE>
-    <NAME>Caramel 200</NAME>
+    <NAME> Viking malt - Caramel 200</NAME>
     <MOISTURE>6</MOISTURE>
     <YIELD>75</YIELD>
     <COLOR>101.6</COLOR>
@@ -199,7 +199,7 @@
     <MAX_IN_BATCH></MAX_IN_BATCH>
   </FERMENTABLE>
   <FERMENTABLE>
-    <NAME>Caramel 300</NAME>
+    <NAME> Viking malt - Caramel 300</NAME>
     <MOISTURE>6</MOISTURE>
     <YIELD>73</YIELD>
     <COLOR>152.4</COLOR>
@@ -208,7 +208,7 @@
     <MAX_IN_BATCH></MAX_IN_BATCH>
   </FERMENTABLE>
   <FERMENTABLE>
-    <NAME>Caramel 400</NAME>
+    <NAME> Viking malt - Caramel 400</NAME>
     <MOISTURE>6</MOISTURE>
     <YIELD>68</YIELD>
     <COLOR>203.2</COLOR>
@@ -217,7 +217,7 @@
     <MAX_IN_BATCH></MAX_IN_BATCH>
   </FERMENTABLE>
   <FERMENTABLE>
-    <NAME>Caramel 600</NAME>
+    <NAME> Viking malt - Caramel 600</NAME>
     <MOISTURE>6</MOISTURE>
     <YIELD>68</YIELD>
     <COLOR>304.8</COLOR>
@@ -226,7 +226,7 @@
     <MAX_IN_BATCH></MAX_IN_BATCH>
   </FERMENTABLE>
   <FERMENTABLE>
-    <NAME>Cookie</NAME>
+    <NAME> Viking malt - Cookie</NAME>
     <MOISTURE>6</MOISTURE>
     <YIELD>72</YIELD>
     <COLOR>25.4</COLOR>
@@ -235,7 +235,7 @@
     <MAX_IN_BATCH>20</MAX_IN_BATCH>
   </FERMENTABLE>
   <FERMENTABLE>
-    <NAME>Caramel Pale</NAME>
+    <NAME> Viking malt - Caramel Pale</NAME>
     <MOISTURE>7.5</MOISTURE>
     <YIELD>77</YIELD>
     <COLOR>4.064</COLOR>
@@ -244,7 +244,7 @@
     <MAX_IN_BATCH>30</MAX_IN_BATCH>
   </FERMENTABLE>
   <FERMENTABLE>
-    <NAME>Black</NAME>
+    <NAME> Viking malt - Black</NAME>
     <MOISTURE>5</MOISTURE>
     <YIELD>65</YIELD>
     <COLOR>711.2</COLOR>
@@ -253,7 +253,7 @@
     <MAX_IN_BATCH>2</MAX_IN_BATCH>
   </FERMENTABLE>
   <FERMENTABLE>
-    <NAME>Red Ale</NAME>
+    <NAME> Viking malt - Red Ale</NAME>
     <MOISTURE>5</MOISTURE>
     <YIELD>75</YIELD>
     <COLOR>35.56</COLOR>
@@ -262,7 +262,7 @@
     <MAX_IN_BATCH>20</MAX_IN_BATCH>
   </FERMENTABLE>
   <FERMENTABLE>
-    <NAME>Munich Light</NAME>
+    <NAME> Viking malt - Munich Light</NAME>
     <MOISTURE>5</MOISTURE>
     <YIELD>78</YIELD>
     <COLOR>8.128</COLOR>
@@ -271,7 +271,7 @@
     <MAX_IN_BATCH>100</MAX_IN_BATCH>
   </FERMENTABLE>
   <FERMENTABLE>
-    <NAME>Munich Dark</NAME>
+    <NAME> Viking malt - Munich Dark</NAME>
     <MOISTURE>5</MOISTURE>
     <YIELD>78</YIELD>
     <COLOR>11.176</COLOR>
@@ -280,7 +280,7 @@
     <MAX_IN_BATCH>100</MAX_IN_BATCH>
   </FERMENTABLE>
   <FERMENTABLE>
-    <NAME>Chocolate Dark</NAME>
+    <NAME> Viking malt - Chocolate Dark</NAME>
     <MOISTURE>5</MOISTURE>
     <YIELD>67</YIELD>
     <COLOR>457.2</COLOR>
