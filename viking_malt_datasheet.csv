@@ -1,4 +1,4 @@
-,Moisture [%],Extract % dm,Color [EBC],Color [SRM],Protein [%],Diastatic power [WK dm],Diastatic power [Lintner],Max %
+,Moisture [%],Extract [% dm],Color [EBC],Color [SRM],Protein [%],Diastatic power [WK dm],Diastatic power [Lintner],Max dosage rate [%]
 Pilsner Zero,5,80,3.75,1.905,11.5,250,76,100
 Wheat,6,82,5,2.54,13,250,76,100
 Pale Ale,5,80,5.5,2.794,11.5,,,100
@@ -31,3 +31,8 @@ Red Ale,5,75,70,35.56,,,,20
 Munich Light,5,78,16,8.128,,,,100
 Munich Dark,5,78,22,11.176,11.5,,,100
 Chocolate Dark,5,67,900,457.2,,,,10
+Apple Smoked,9,81,10,5.08,12,,,
+Beech Smoked,9,81,10,5.08,12,,,
+Cherry Smoked,9,81,10,5.08,12,,,
+Sweet Cherry Smoked,9,81,10,5.08,12,,,
+Pear Smoked,9,81,10,5.08,12,,,
